@@ -33,6 +33,6 @@ localhost:8000
 ### CHOOSE FILE : Choose the file you already uploaded.
 ### SEARCH : Input the words you want to search and return it to server.
 ### CLEAR : Clear display file.
-### statistics : Number of characters, words, phrases, result of searching in this file.
+### statistics : Number of characters, words, sentences, result of searching in this file.
 ### DELETE : Delete the displayed file
-![](https://i.imgur.com/YEtmMTG.jpg)
+![](https://i.imgur.com/eRGr4eS.jpg)
